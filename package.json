@@ -1,0 +1,19 @@
+{
+  "name": "baidu-seo",
+  "version": "1.0.0",
+  "description": "baidu seo for indexing pages ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonchoih/baidu_seo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasonchoih/baidu_seo/issues"
+  },
+  "homepage": "https://github.com/jasonchoih/baidu_seo#readme"
+}
